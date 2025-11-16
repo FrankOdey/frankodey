@@ -75,7 +75,7 @@ Custom SDK for working with **Thales HSM**, enabling:
 
 **Tech:** Python, HSM APIs, Cryptography
 
-👉 (Repo link placeholder – add when ready)
+👉 [Check Repo](https://github.com/FrankOdey/packer)
 
 
 
@@ -94,7 +94,7 @@ A full ISO8583 engine capable of:
 
 **Tech:** Python or NodeJS, ISO8583 spec
 
-👉 (Repo link placeholder)
+👉 [Repo link](https://github.com/FrankOdey/packer)
 
 
 
@@ -111,7 +111,7 @@ A simulator for fintech/payment testing:
 - Used for partner onboarding/testing
     
 
-👉 (Repo link placeholder)
+👉 [Repo link](https://github.com/FrankOdey/packer)
 
 
 
@@ -128,7 +128,7 @@ Automated onboarding + integration pipeline for APOS terminals.
 
 **Tech:** Docker, Python, CI/CD
 
-👉 (Repo link placeholder)
+👉 [Repo link](https://github.com/FrankOdey/packer)
 
 
 
@@ -147,7 +147,7 @@ Lightweight rules-based system for identifying suspicious transactions.
 
 **Tech:** Python, Data Structures, AWS EC2
 
-👉 (Repo link placeholder)
+👉 [Repo link](https://github.com/FrankOdey/packer)
 
 
 
